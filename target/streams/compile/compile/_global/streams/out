@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0mC:\web app\play-samples-play-java-starter-example\app\controllers\BookController.java:13:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable TODO[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.BookController[0m
+[0m[[0m[31merror[0m] [0m[0mTODO[0m
+[0m[[0m[31merror[0m] [0m[0mC:\web app\play-samples-play-java-starter-example\app\controllers\BookController.java:18:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable TODO[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.BookController[0m
+[0m[[0m[31merror[0m] [0m[0mTODO[0m
+[0m[[0m[31merror[0m] [0m[0mC:\web app\play-samples-play-java-starter-example\app\controllers\BookController.java:24:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable TODO[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.BookController[0m
+[0m[[0m[31merror[0m] [0m[0mTODO[0m
+[0m[[0m[31merror[0m] [0m[0mC:\web app\play-samples-play-java-starter-example\app\controllers\BookController.java:29:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable TODO[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.BookController[0m
+[0m[[0m[31merror[0m] [0m[0mTODO[0m
+[0m[[0m[31merror[0m] [0m[0mC:\web app\play-samples-play-java-starter-example\app\controllers\BookController.java:34:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable TODO[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.BookController[0m
+[0m[[0m[31merror[0m] [0m[0mTODO[0m
+[0m[[0m[31merror[0m] [0m[0mC:\web app\play-samples-play-java-starter-example\app\controllers\BookController.java:39:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable TODO[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.BookController[0m
+[0m[[0m[31merror[0m] [0m[0mTODO[0m
+[0m[[0m[31merror[0m] [0m[0mC:\web app\play-samples-play-java-starter-example\app\controllers\BookController.java:44:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable TODO[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.BookController[0m
+[0m[[0m[31merror[0m] [0m[0mTODO[0m
