@@ -1,7 +1,10 @@
 package controllers;
 
 
+import views.html.*;
+import java.util.Set;
 
+import models.Book;
 import play.mvc.Controller;
 import play.mvc.Result;
 
@@ -10,7 +13,8 @@ public class BookController extends Controller
 	//to view all books
 	public Result index()
 	{
-		return null;
+		Set<Book> books=Book.allBooks();
+		return ok(bookview.render(books));
 	}
 //to create a book
 	public Result create()
